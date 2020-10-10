@@ -127,7 +127,7 @@ var MillionaireModel = function(data) {
  				self.money($(".active").data('amt'));
  				if(self.level() + 1 > 15) {
 	 				$("#game").fadeOut('slow', function() {
-	 					$("#game-over").html('You Win!');
+	 					$("#game-over").html('Herzlichen Glückwunsch!');
 	 					$("#game-over").fadeIn('slow');
 	 				});
  				} else {
