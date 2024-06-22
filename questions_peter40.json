@@ -1,0 +1,158 @@
+{
+	"games" : [
+		{
+		    "questions" : [
+		        {
+		            "question" : "In welchem Verhältnis stehen 125ml hopfenhaltiges Kaltgetränk zu ner Flasche Bier?",
+		            "content" : [
+		                "ein viel zu geringes Verhältnis",
+						"Bier gibts nicht als 125ml Pfützen",
+		                "Ich hab immernoch DURSCHD!",
+		                "ein Viertel"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Bilderfrage: Welche Sorte Bier hat der Viertle hier im Korb?",
+		            "content" : [
+		                "Kozel",
+		                "Radegast",
+		                "Gambrinus",
+		                "Staropramen"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Wie befüllt man am besten ein Luftsofa mit Luft?",
+		            "content" : [
+		                "Man hält ganz einfach und unkompliziert die Öffnung in den Wind und wartet kurz bis sich etwas Luft im Schlauch befindet. Anschließend schließt man das Sofa durch Umkrempeln der Einfüllöffnung.",
+		                "Man fragt jemanden, ob ER helfen kann. Der Helfende verhält sich wie in Antwort A",
+		                "Man fragt jemanden, ob SIE helfen kann. Die Helfende verhält sich wie in Antwort A",
+		                "Man bedient sich des Effektes der Trägheit von Luftmassen und des Luftzuges, welcher sich durch Änderung der Relativgeschwindigkeit eines Objektes zu dessen Umgebungsluft ergibt."
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Was ist hier kurze Zeit später passiert",
+		           "content" : [
+					    "Peter wurde mit einer Packung Steaks beworfen und ließ das Handy ins Wasser fallen.",
+		                "Peter wurde mit einer Packung Bratwürste beworfen und ließ das Handy ins Wasser fallen.",
+		                "Peter wurde mit einer Packung Grillkohle beworfen und ließ das Handy ins Wasser fallen.",
+		                "Peter wurde mit einer Packung Grillkäse beworfen und ließ das Handy ins Wasser fallen."
+		            ],
+		            "correct" : 0
+		        },
+				{
+					"question" : "Welche Party wurde hier gefeiert und wie endete Sie",
+					"content" : [
+						"Obertorgrill Winter-Open-Air 2005, als ich mit einem Schlitten and er AHK eines Autos durch Dipps gezogen wurde, obwohl kein Schnee lag!",
+						"Obertorgrill Weihnachtsfeier 2008 und die Party endete mit einem wilden Strip bis auf den Schlüpper!",
+						"Obertorgrill JGA meines Bruders 2010, als ich vor der Stripperin einschlief und erst nach Ihrem Auftritt wieder aufwachte!",
+						"Obertorgrill Heiligabend 2009, als ich bei Trilli ins Bett gebracht wurde und dann das Essen zum 1. Weihnachtsfeiertag bei meinen Eltern verschlief!"
+					],
+					"correct" : 1
+				},
+				{
+					"question" : "08 Wo ist das Bild entstanden?",
+		            "content" : [
+						"5-jähriges Klassentreffen",
+		                "Svens 20. Geburtstag",
+		                "Abschlussfahrt 9. Klasse",
+		                "Austrinkparty im Jugendclub Reichstädt"
+		            ],
+		            "correct" : 0
+				},
+				{
+				   "question" : "09 Wo ist das Bild entstanden?",
+		            "content" : [
+		                "Singapur",
+		                "Kuala Lumpur",
+		                "Langkawi",
+		                "Malacca"
+		            ],
+		            "correct" : 1
+				},
+				{
+				    "question" : "10 Welche Rückennummer hattest du auf dem Trikot dieser Fete?",
+		            "content" : [
+		                "08",
+		                "15",
+		                "30",
+		                "13"
+		            ],
+		            "correct" : 3
+				},
+				{
+		            "question" : "Mit welchem Werbeslogan wurde zu dessen Einführung im Jahr 1988 der VW Corrado beworben?",
+		            "content" : [
+		                "Tiefer, schneller, breiter",
+						"Technik trifft Emotion",
+						"Die schönste Form von Leistungsdruck",
+		                "G7 ist Politik. Der G60 ist für Männer!"
+		            ],
+		            "correct" : 2
+		        },
+				{
+				    "question" : "11 In welchem Jahr haben wir die Kreismeisterschaft gewonnen?",
+		            "content" : [
+		                "91/92",
+		                "92/93",
+		                "93/94",
+		                "94/95"
+		            ],
+		            "correct" : 2
+				},
+				{
+				    "question" : "12 Welche Band habt ihr zum Dorffest gecovert?",
+		            "content" : [
+		                "Böhse Onkelz",
+		                "Die Prinzen",
+		                "Die Toten Hosen",
+		                "Fanta 4"
+		            ],
+		            "correct" : 1
+				},
+				{
+				    "question" : "13 In welchem jahr habt ihr Synchronwassersport betrieben?",
+		            "content" : [
+		                "2000",
+		                "2001",
+		                "2002",
+		                "2003"
+		            ],
+		            "correct" : 1
+				},
+				{
+				    "question" : "14 Welchen Spitznamen hatte unser Trainer?",
+		            "content" : [
+		                "Steff",
+		                "Neff",
+		                "Leff",
+		                "Winks"
+		            ],
+		            "correct" : 1
+				},
+				{
+				    "question" : "15 Aus welchem Jahr stammt das modische Accessoire, welches du um den Hals trägst?",
+		            "content" : [
+						"eeenneuntzsch",
+		                "zweenneuntzsch",
+		                "drainnointzsch",
+		                "pfiernnoiiiintzsch"
+		            ],
+		            "correct" : 1
+				},
+				{
+				    "question" : "Wie lang ist der Grand Prix Kurs in Brno?",
+					"content" : [
+		                "534655 cm",
+		                "56558 dm",
+		                "5403 m",
+		                "5,8 km"
+		            ],
+				    "correct": 2
+				}
+		    ]
+		}
+	]
+}
