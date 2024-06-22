@@ -106,6 +106,16 @@ audio {
 	margin: 0 auto;
 }
 
+#media-link-div {
+	position:relative;
+}
+.media-link {
+	margin-top: 100px;
+	position: absolute;
+    right: 0px;
+	bottom: 0px;
+}
+
 #pre-start {
 	display: none;
 }

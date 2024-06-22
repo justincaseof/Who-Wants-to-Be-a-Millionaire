@@ -6,14 +6,14 @@
 *        parts of the number and the decimal parts with. Default "."
 * @param breakdDelim the string to deliminate the non-decimal
 *        parts of the number with. Default ","
-* @return returns this number as a USD-money-formatted String
+* @return returns this number as a EUR-money-formatted String
 *		  like this: x,xxx.xx
 */
 Number.prototype.money = function(fixed, decimalDelim, breakDelim){
 	var n = this, 
 	fixed = isNaN(fixed = Math.abs(fixed)) ? 2 : fixed, 
-	decimalDelim = decimalDelim == undefined ? "." : decimalDelim, 
-	breakDelim = breakDelim == undefined ? "," : breakDelim, 
+	decimalDelim = decimalDelim == undefined ? "," : decimalDelim, 
+	breakDelim = breakDelim == undefined ? "." : breakDelim, 
 	negative = n < 0 ? "-" : "", 
 	i = parseInt(n = Math.abs(+n || 0).toFixed(fixed)) + "", 
 	j = (j = i.length) > 3 ? j % 3 : 0;
@@ -117,6 +117,24 @@ var MillionaireModel = function(data) {
  		}
  	}
 
+	//// FIX
+ 	self.back = function(index, elm) {
+		if(self.transitioning)
+			return;
+		
+		if (self.level() < 2)
+			return;
+
+		self.level(self.level() - 1);
+		
+		$("#" + elm).css('background', 'none');
+		$("#answer-one").show();
+		$("#answer-two").show();
+		$("#answer-three").show();
+		$("#answer-four").show();
+		self.transitioning = false;
+	}
+
  	// Executes the proceedure of a correct answer guess, moving
  	// the player to the next level (or winning the game if all
  	// levels have been completed)
@@ -144,22 +162,47 @@ var MillionaireModel = function(data) {
  	}
 
  	// Executes the proceedure of guessing incorrectly, losing the game.
- 	self.wrongAnswer = function(elm) {
- 		$("#" + elm).slideUp('slow', function() {
- 			startSound('wrongsound', false);
- 			$("#" + elm).css('background', 'red').slideDown('slow', function() {
- 				$("#game").fadeOut('slow', function() {
- 					$("#game-over").html('Game Over!');
- 					$("#game-over").fadeIn('slow');
- 					self.transitioning = false;
- 				});
- 			});
- 		});
- 	}
+ 	// self.wrongAnswer = function(elm) {
+	// 	$("#" + elm).slideUp('slow', function() {
+	// 		startSound('wrongsound', false);
+	// 		$("#" + elm).css('background', 'red').slideDown('slow', function() {
+	// 			$("#game").fadeOut('slow', function() {
+	// 				$("#game-over").html('Game Over!');
+	// 				$("#game-over").fadeIn('slow');
+	// 				self.transitioning = false;
+	// 			});
+	// 		});
+	// 	});
+	// }
+	self.wrongAnswer = function(elm) {
+		$("#" + elm).slideUp('slow', function() {
+			startSound('wrongsound', false);
+			$("#" + elm).css('background', 'red').slideDown('slow', function() {
+				//self.level(self.level() + 1);
+ 					
+				alert(
+					"###############################################\n" + 
+					"###############################################\n" + 
+					"###\n" +
+					"###                            TORWAND!\n" +
+					"###\n" + 
+					"###############################################\n" + 
+					"###############################################\n" 
+				  );  // display string message
+
+				$("#" + elm).css('background', 'none');
+			 		$("#answer-one").show();
+			 		$("#answer-two").show();
+			 		$("#answer-three").show();
+			 		$("#answer-four").show();
+			 		self.transitioning = false;
+			});
+		});
+	}
 
  	// Gets the money formatted string of the current won amount of money.
  	self.formatMoney = function() {
-	    return self.money().money(2, '.', ',');
+	    return self.money().money(2, ',', '.');
 	}
 };
 

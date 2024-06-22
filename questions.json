@@ -3,176 +3,12 @@
 		{
 		    "questions" : [
 		        {
-		            "question" : "Welches ist die Lieblingskreuzfahrtmarke der Kandidatin?",
-		            "content" : [
-		                "Die weiße Flotte",
-						"Völkerfreundschaft",
-		                "Amadeus Flusskreuzfahrten",
-		                "AIDA Cruises"
-		            ],
-		            "correct" : 3
-		        },
-		        {
-		            "question" : "In welche Stadt fährt die Kandidatin mal eben schnell an einem Wochenende, um an einem Event ihrer Lieblingskreuzfahrtmarke teilzunehmen?",
-		            "content" : [
-		                "Dresden",
-		                "Kassel",
-		                "Hamburg",
-		                "Magdeburg"
-		            ],
-		            "correct" : 2
-		        },
-		        {
-		            "question" : "Wonach wurde der Name \"AIDA\" unter anderem gewählt?",
-		            "content" : [
-		                "Oper von Guiseppe  Verdi",
-		                "Fußballer Simone Verdi",
-		                "Deutsche Gewerkschaft ver.di",
-		                "Stadt \"Verdi\" in Texas/USA"
-		            ],
-		            "correct" : 0
-		        },
-		        {
-		            "question" : "Welche vier Farben finden sich im Namenszug AIDA?",
-		            "content" : [
-		                "orange, gelb, rot, schwarz",
-		                "blau, rot gelb grün",
-		                "türkis, pink, grün, lila",
-		                "braun, blau, grün, rot"
-		            ],
-		            "correct" : 1
-		        },
-				{
-				    "correct": 2,
-				    "content": [
-				        "3-Sterne Köche",
-				        "Brot und Wasser",
-				        "Buffet",
-				        "Lunch-Pakete"
-				    ],
-				    "question": "Womit zeichnet sich das Küchenkonzept der AIDA aus?"
-				},
-		        {
-		            "question" : "Was ist das Markenzeichen von AIDA?",
-		            "content" : [
-		                "Kussmund und zwei Augen",
-						"lachender Mund und Nase",
-		                "schreiender Mund mit Zahnlücke",
-		                "Schmollmund und zwei Ohren"
-		            ],
-		            "correct" : 0
-		        },
-				{
-				    "correct": 2,
-				    "content": [
-				        "2020",
-				        "1980",
-				        "1996",
-				        "1956"
-				    ],
-				    "question": "Wann ging das erste AIDA Schiff auf die Reise?"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "AIDApolo",
-				        "AIDAfabia",
-						"AIDAcorsa",
-				        "AIDAcara"
-				    ],
-				    "question": "Wie heißt das erste Schiff der AIDA Flotte?"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "7",
-				        "14",
-				        "21",
-				        "28"
-				    ],
-				    "question": "Wie viele AIDA-Schiffe gibt es aktuell?"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "AIDA Operaufführung",
-				        "AIDA Schiffsschraube",
-				        "AIDA Kussmund",
-				        "AIDA Torte"
-				    ],
-				    "question": "Was ist ein traditionelles Stück am Ende einer Reise mit der AIDA?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "3250",
-						"710",
-				        "9550",
-				        "1010"
-				    ],
-				    "question": "Wie viele Passagiere passen auf die AIDAprima?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "Spanische",
-				        "Ägyptische",
-				        "Italienische",
-				        "Weiße"
-				    ],
-				    "question": "Unter welcher Flagge fahren die AIDA Schiffe?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "2",
-				        "7.101.980",
-				        "31.888",
-						"40.000"
-				    ],
-				    "question": "Wie hoch ist die Bettenkapazität aller 14 Schiffe insgesamt?"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "Karl-Marx Stadt",
-						"Rostock",
-						"Hamburg",
-						"Venedig"
-				    ],
-				    "question": "Wo befindet sich der AIDA Firmenhauptsitz?"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "AIDAprima",
-				        "AIDAnova",
-				        "AIDAstella",
-				        "AIDAazurro"
-				    ],
-				    "question": "Was ist kein Name eines aktuellen AIDA Schiffes?"
-				}
-		    ]
-		},
-		{
-		    "questions" : [
-		        {
-		            "question" : "In welchem Verhältnis stehen 125ml zu nem halben Liter Bier?",
+		            "question" : "In welchem Verhältnis stehen 125ml hopfenhaltiges Kaltgetränk zu ner Flasche Bier?",
 		            "content" : [
 		                "ein viel zu geringes Verhältnis",
 						"Bier gibts nicht als 125ml Pfützen",
 		                "Ich hab immernoch DURSCHD!",
 		                "ein Viertel"
-		            ],
-		            "correct" : 4
-		        },
-		        {
-		            "question" : "Mit welchem Werbeslogan wurde zu dessen Einführung im Jahr 1988 der VW Corrado beworben?",
-		            "content" : [
-		                "Tiefer, schneller, breiter",
-						"Technik trifft Emotion",
-						"Die schönste Form von Leistungsdruck",
-		                "G7 ist Politik. Der G60 ist für Männer!"
 		            ],
 		            "correct" : 3
 		        },
@@ -184,127 +20,137 @@
 		                "Gambrinus",
 		                "Staropramen"
 		            ],
-		            "correct" : 1
+		            "correct" : 0
 		        },
 		        {
-		            "question" : "TODO 4",
+		            "question" : "Wie befüllt man am besten ein Luftsofa mit Luft?",
 		            "content" : [
-		                "AAA",
-		                "BBB",
-		                "CCC",
-		                "DDD"
+		                "Man hält ganz einfach und unkompliziert die Öffnung in den Wind und wartet kurz bis sich etwas Luft im Schlauch befindet. Anschließend schließt man das Sofa durch Umkrempeln der Einfüllöffnung.",
+		                "Man fragt jemanden, ob ER helfen kann. Der Helfende verhält sich wie in Antwort A",
+		                "Man fragt jemanden, ob SIE helfen kann. Die Helfende verhält sich wie in Antwort A",
+		                "Man bedient sich des Effektes der Trägheit von Luftmassen und des Luftzuges, welcher sich durch Änderung der Relativgeschwindigkeit eines Objektes zu dessen Umgebungsluft ergibt."
 		            ],
-		            "correct" : 1
+		            "correct" : 3
 		        },
-				{
-				    "question" : "TODO 5",
-					"content" : [
-		                "AAA",
-		                "BBB",
-		                "CCC",
-		                "DDD"
-		            ],
-				    "correct": 2,
-				},
 		        {
-		            "question" : "TODO 6",
+		            "question" : "Was ist hier kurze Zeit später passiert?",
 		           "content" : [
-		                "AAA",
-		                "BBB",
-		                "CCC",
-		                "DDD"
+					    "Peter wurde mit einer Packung Steaks beworfen und ließ das Handy ins Wasser fallen.",
+		                "Peter wurde mit einer Packung Bratwürste beworfen und ließ das Handy ins Wasser fallen.",
+		                "Peter wurde mit einer Packung Grillkohle beworfen und ließ das Handy ins Wasser fallen.",
+		                "Peter wurde mit einer Packung Grillkäse beworfen und ließ das Handy ins Wasser fallen."
 		            ],
 		            "correct" : 0
 		        },
 				{
-				    "question" : "TODO 7",
+					"question" : "Welche Party wurde hier gefeiert und wie endete Sie?",
+					"content" : [
+						"Obertorgrill Winter-Open-Air 2005, als ich mit einem Schlitten an der AHK eines Autos durch Dipps gezogen wurde, obwohl kein Schnee lag!",
+						"Obertorgrill Weihnachtsfeier 2008 und die Party endete mit einem wilden Strip bis auf den Schlüpper!",
+						"Obertorgrill JGA meines Bruders 2010, als ich vor der Stripperin einschlief und erst nach Ihrem Auftritt wieder aufwachte!",
+						"Obertorgrill Heiligabend 2009, als ich bei Trilli ins Bett gebracht wurde und dann das Essen zum 1. Weihnachtsfeiertag bei meinen Eltern verschlief!"
+					],
+					"correct" : 1
+				},
+				{
+					"question" : "Wo ist das Bild entstanden?",
 		            "content" : [
-		                "AAA",
-		                "BBB",
-		                "CCC",
-		                "DDD"
+						"5-jähriges Klassentreffen",
+		                "Svens 20. Geburtstag",
+		                "Abschlussfahrt 9. Klasse",
+		                "Austrinkparty im Jugendclub Reichstädt"
 		            ],
 		            "correct" : 0
 				},
 				{
-				    "question" : "TODO 8",
+				   "question" : "Wo ist das Bild entstanden?",
 		            "content" : [
-		                "AAA",
-		                "BBB",
-		                "CCC",
-		                "DDD"
+		                "Singapur",
+		                "Kuala Lumpur",
+		                "Langkawi",
+		                "Malacca"
+		            ],
+		            "correct" : 1
+				},
+				{
+				    "question" : "Welche Rückennummer hattest du auf dem Trikot dieser Fete?",
+		            "content" : [
+		                "08",
+		                "15",
+		                "30",
+		                "13"
+		            ],
+		            "correct" : 3
+				},
+				{
+		            "question" : "Mit welchem Werbeslogan wurde zu dessen Einführung im Jahr 1988 der VW Corrado beworben?",
+		            "content" : [
+		                "Tiefer, schneller, breiter",
+						"Technik trifft Emotion",
+						"Die schönste Form von Leistungsdruck",
+		                "G7 ist Politik. Der G60 ist für Männer!"
+		            ],
+		            "correct" : 2
+		        },
+				{
+				    "question" : "In welchem Jahr haben wir die Kreismeisterschaft gewonnen?",
+		            "content" : [
+		                "91/92",
+		                "92/93",
+		                "93/94",
+		                "94/95"
+		            ],
+		            "correct" : 2
+				},
+				{
+				    "question" : "Welche Band habt ihr zum Dorffest gecovert?",
+		            "content" : [
+		                "Böhse Onkelz",
+		                "Die Toten Hosen",
+		                "Fanta 4",
+		                "Die Prinzen"
+		            ],
+		            "correct" : 3
+				},
+				{
+				    "question" : "In welchem Jahr habt ihr Synchronwassersport betrieben?",
+		            "content" : [
+		                "2000",
+		                "2001",
+		                "2002",
+		                "2003"
+		            ],
+		            "correct" : 1
+				},
+				{
+				    "question" : "Welchen Spitznamen hatte unser Trainer?",
+		            "content" : [
+		                "Neff",
+		                "Leff",
+		                "Steff",
+		                "Winks"
 		            ],
 		            "correct" : 0
 				},
 				{
-				   "question" : "TODO 9",
+				    "question" : "Aus welchem Jahr stammt das modische Accessoire, welches du um den Hals trägst?",
 		            "content" : [
-		                "AAA",
-		                "BBB",
-		                "CCC",
-		                "DDD"
+						"eeenneuntzsch",
+		                "zweenneuntzsch",
+		                "drainnointzsch",
+		                "pfiernnoiiiintzsch"
 		            ],
-		            "correct" : 0
+		            "correct" : 1
 				},
 				{
-				    "question" : "TODO 10",
-		            "content" : [
-		                "AAA",
-		                "BBB",
-		                "CCC",
-		                "DDD"
+				    "question" : "Wie lang ist der Grand Prix Kurs in Brno?",
+					"content" : [
+		                "534655 cm",
+		                "56558 dm",
+		                "5403 m",
+		                "5,8 km"
 		            ],
-		            "correct" : 0
-				},
-				{
-				    "question" : "TODO 11",
-		            "content" : [
-		                "AAA",
-		                "BBB",
-		                "CCC",
-		                "DDD"
-		            ],
-		            "correct" : 0
-				},
-				{
-				    "question" : "TODO 12",
-		            "content" : [
-		                "AAA",
-		                "BBB",
-		                "CCC",
-		                "DDD"
-		            ],
-		            "correct" : 0
-				},
-				{
-				    "question" : "TODO 13",
-		            "content" : [
-		                "AAA",
-		                "BBB",
-		                "CCC",
-		                "DDD"
-		            ],
-		            "correct" : 0
-				},
-				{
-				    "question" : "TODO 14",
-		            "content" : [
-		                "AAA",
-		                "BBB",
-		                "CCC",
-		                "DDD"
-		            ],
-		            "correct" : 0
-				},
-				{
-				    "question" : "TODO 15",
-		            "content" : [
-		                "AAA",
-		                "BBB",
-		                "CCC",
-		                "DDD"
-		            ],
-		            "correct" : 0
+				    "correct": 2
 				}
 		    ]
 		}
