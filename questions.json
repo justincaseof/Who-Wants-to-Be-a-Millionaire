@@ -48,7 +48,7 @@
 						"TI-83 Plus",
 						"Casio FX 9860",
 						"TI Voyage 200",
-						"Casio CFG 9850"
+						"Casio CFX 9850"
 					],
 					"correct" : 3
 				},
@@ -110,7 +110,7 @@
 		                "150 kW/m³",
 		                "150 MW/m³"
 		            ],
-		            "correct" : 3
+		            "correct" : 1
 				},
 				{
 				    "question" : "Jan bäckt ja gerne Brot. Und im Sauerteig sind bekannterweise Michlsäurebakterien. Bakterien teilen sich im Idealfall alle 20 Minuten. Wie viel Bakterienmasse entstünde, wenn sich ein Bakterium 48h unter absoluten Idealbedingungen fröhlich vor sich hin entwickeln kann.",
@@ -130,7 +130,7 @@
 		                "2,00 mm",
 		                "20,0 mm"
 		            ],
-		            "correct" : 0
+		            "correct" : 1
 				},
 				{
 				    "question" : "Bilderraten: Jahr, Anlass, Location",
