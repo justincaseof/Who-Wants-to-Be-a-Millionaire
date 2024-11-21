@@ -83,14 +83,14 @@
 		            "correct" : 1
 				},
 				{
-		            "question" : "Im Lotterie-Kartenspiel DIE MAGISCHE LOTTERIE gibt es insgesamt 30 Karten, von denen 10 Gewinnkarten sind. Wenn ein Spieler 5 Karten zieht, ohne sie zurückzulegen, welche Wahrscheinlichkeit besteht, dass er genau drei Gewinnkarten zieht?",
+		            "question" : "Es wird Schlesische Lotterie im klassichen Sinn gespielt. Die Bank verkauft alle 32 Karten zu je 1€. Wie viel Profit macht die Bank?",
 		            "content" : [
-		                "0,14",
-						"0,25",
-						"0,42",
-		                "0,60"
+		                "15,625 Prozent",
+						"6,25 Prozent",
+						"37,5 Prozent",
+		                "9,375 Prozent"
 		            ],
-		            "correct" : 0
+		            "correct" : 3
 		        },
 				{
 				    "question" : "In welchem Jahr wurde Christi HImmelfahrt als Feiertag in der DDR abgeschafft?",
@@ -130,7 +130,7 @@
 		                "482km",
 		                "647km"
 		            ],
-		            "correct" : 0
+		            "correct" : 3
 				},
 				{
 				    "question" : "Welcher Mädchenvorname wurde 2015 in Cottbus am häufigsten vergeben?",
