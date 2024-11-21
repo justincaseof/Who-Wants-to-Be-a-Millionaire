@@ -93,7 +93,7 @@
 		            "correct" : 3
 		        },
 				{
-				    "question" : "In welchem Jahr wurde Christi HImmelfahrt als Feiertag in der DDR abgeschafft?",
+				    "question" : "In welchem Jahr wurde Christi Himmelfahrt als Feiertag in der DDR abgeschafft?",
 		            "content" : [
 		                "1950",
 		                "1978",
@@ -113,11 +113,11 @@
 		            "correct" : 1
 				},
 				{
-				    "question" : "Was ist auf dem Logo der Brauerei zu Reisewitz, die von 1868-1950 gab?",
+				    "question" : "Was ist auf dem Logo der Brauerei zu Reisewitz, die es von 1868-1950 gab, abgebildet?",
 		            "content" : [
 		                "Ein Bierkrug mit einem Schafskopf.",
 		                "Ein Löwe, der ein Bierfass rollt.",
-		                "Ein Hopfenlranz mit Wappen.",
+		                "Ein Hopfenkranz mit Wappen.",
 		                "Ein Drache mit Wappen."
 		            ],
 		            "correct" : 1
